@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jni:home|Door43 (jni)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jni|d43-jni repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jni/archive/master.zip|d43-jni.zip]]
+
+**Recent Changes**
+{{changes>ns = jni}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jni|Ethnologue data]]
+
